@@ -1,2 +1,2 @@
 
-Copyright (C) 2020 Pythonic-Rainbow
+Copyright (C) Pythonic-Rainbow
